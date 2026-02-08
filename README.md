@@ -1,9 +1,8 @@
+<div>
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,15&height=280&section=header&text=Marta%20Quirós%20Martín-Portugués&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Desarrolladora%20Full-Stack&descAlignY=60&descAlign=50&v=teal_smooth" alt="Header Azul Verdoso" width="100%"/>
+
 <div align="center">
-
-# ¡Hola!👋 Soy Marta 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFCB1F&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack)](https://git.io/typing-svg)
-
 ---
 ## 👩‍💻 Sobre mí
 
@@ -69,4 +68,8 @@ Mi día a día se divide entre el desarrollo de aplicaciones robustas en el ecos
 ---
 
 **Made with ❤️ by Marta Quirós**
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,25,30&height=100&section=footer&v=footer_teal" width="100%"/>
+
 </div>
