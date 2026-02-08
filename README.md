@@ -3,7 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,15&height=280&section=header&text=Marta%20Quirós%20Martín-Portugués&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Desarrolladora%20Full-Stack&descAlignY=60&descAlign=50&v=teal_smooth" alt="Header Azul Verdoso" width="100%"/>
 
 <div align="center">
+  
 ---
+
 ## 👩‍💻 Sobre mí
 
 ¡Bienvenido a mi perfil! Soy una desarrolladora enfocada en crear soluciones eficientes y escalables. Actualmente, estoy cursando el **Máster de Desarrollo Full-Stack y Arquitecturas Cloud en Tajamar**, donde profundizo en el diseño de sistemas modernos y el despliegue en la nube.
